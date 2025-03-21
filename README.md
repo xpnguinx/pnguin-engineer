@@ -51,7 +51,7 @@ tavily_api_key: your_tavily_api_key_here
 4. **Run the assistant**
 
 ```bash
-python pnguin_engineer.py
+python app.py
 ```
 
 ---
