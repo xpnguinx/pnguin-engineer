@@ -1,4 +1,6 @@
 # 🐧 pnguin-engineer
+![Screenshot 2025-03-20 at 11 13 15 PM](https://github.com/user-attachments/assets/397295a6-e9ce-4a0a-a690-45f6737ce96f)
+
 
 > "Some say he was born from ones and zeros, others say he debugged his own birth."
 
